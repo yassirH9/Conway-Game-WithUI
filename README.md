@@ -65,6 +65,13 @@ Ensure you have the following installed:
 - Customize parameters in code to change the simulation results.
 
 ## Screenshots 🌌
+
+<b>The following final vars, contain the game's configuration, please consider change the vars however you want to see the changes.</b>
+
+![video](src/main/resources/assets/final_vars_config.png)
+
+---
+
 ![video](src/main/resources/assets/conway_game_example.gif)
 
 ---
