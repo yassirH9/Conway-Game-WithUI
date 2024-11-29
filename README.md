@@ -65,6 +65,7 @@ Ensure you have the following installed:
 - Customize parameters in code to change the simulation results.
 
 ## Screenshots 🌌
+![video](assets/conway_game_example.gif)
 
 ---
 
